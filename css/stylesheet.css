@@ -1,0 +1,131 @@
+*{
+  margin: auto 0;
+  font-family:sans-serif;
+
+
+}
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #2e6abd;
+
+}
+li{
+  float: left;
+}
+
+li a{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+li a:hover{
+  background-color: #275ba7;
+  color: white;
+}
+h1{
+  color: white;
+
+}
+
+header{
+  background-color: #e61248;
+  text-align: left;
+}
+header h1{
+  display: inline;
+  color: white;
+  padding-bottom: 15px;
+
+}
+
+.logoheader{
+  width: 85px;
+  padding-left: 10px;
+  padding-top:  10px;
+  margin: 0;
+}
+
+article{
+width: 400px;
+height: 400px;
+margin: 10px;
+background-color: #e61248;
+color: white;
+}
+main{
+  display: flex;
+  flex-direction: row;
+  width: 650px;
+  margin: 0 auto;
+  flex-wrap: wrap;
+}
+main h1{
+  color: black;
+  padding-top: 10px;
+
+}
+main p{
+  padding: 20px;
+
+}
+.banner{
+  width: 100%
+
+}
+.section{
+  display: flex;
+  flex-direction: row;
+  margin: 20px;
+  width: 600px;
+  flex-wrap: wrap;
+}
+.main{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+}
+.flex-item-ad{
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+  background-color: #275ba7;
+}
+
+.carlo{
+  width: 400px;
+  height: 225px;
+
+}
+.jupp{
+  width: 400px;
+  height: 255px;
+
+}
+.franck{
+  width: 400px;
+  height: 225px;
+
+}
+.alaba{
+  width: 400px;
+  height: 200px;
+}
+.pagejupp{
+  width: 400px;
+  height: 225px;
+
+}
+#hobby{
+  color: black;
+
+}
